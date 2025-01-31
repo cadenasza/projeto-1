@@ -1,0 +1,16 @@
+.header {
+    width: 100vw;
+    height: 20vh;
+    background-color:#530E4F ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.container-logo{
+    width: 15%;
+}
+
+.logo-acai{
+    width: 100%;
+}

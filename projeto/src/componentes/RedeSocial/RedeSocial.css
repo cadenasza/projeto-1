@@ -1,0 +1,10 @@
+.rede-social{
+    display: flex;
+    gap: 1rem;
+    padding: 0 3rem;
+}
+
+.icon{
+    font-size: 1.4rem;
+    color: #819B34;
+}
