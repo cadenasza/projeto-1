@@ -2,6 +2,7 @@ import { useState } from 'react'
 import Cabecalho from './componentes/Cabecalho/Cabecalho'
 import "./App.css"
 import Historia from './componentes/Historia/Historia'
+import Cards from './componentes/Cards/Cards'
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
     <>
       <Cabecalho />
       <Historia />
+      <Cards />
     </>
   )
 }
